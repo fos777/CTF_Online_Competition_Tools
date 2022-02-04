@@ -3,8 +3,8 @@ This folder mainly stores the software related to the MISC type of competition q
 # MISC TOOLS
 - stegsolve
  
-#!/bin/bash
+ #!/bin/bash
 
-java -jar $CTF_ROOT/bin/stegsolve.jar
+ java -jar $CTF_ROOT/bin/stegsolve.jar
 
 
